@@ -1,4 +1,4 @@
-# Useful links for real-time MRI tools
+# Useful links for speech production real-time MRI tools
 
 ## Papers that use a subset of the [dataset](https://doi.org/10.6084/m9.figshare.13725546.v1) for the reconstruction and artifact correction of the real-time MRI data
 * Yongwan Lim, Sajan Goud Lingala, Shrikanth Narayanan, Krishna S. Nayak. "Dynamic off-resonance correction for spiral real-time MRI of speech", *Magnetic Resonance in  Medicine*, vol. 81, pp. 234–246, 2019. [[Paper]](https://doi.org/10.1002/mrm.27373)[[Code]](https://github.com/usc-mrel/dynamic_off_resonance_correction)
