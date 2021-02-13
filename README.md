@@ -20,22 +20,23 @@
 * Tanner Sorensen, Asterios Toutios, Louis Goldstein, Shrikanth Narayanan, "Task-dependence of articulator synergies", *Journal of the Acoustical Society of America*, vol. 145, no. 3, pp. 1504-1520, 2019. [[Paper]](https://asa.scitation.org/doi/10.1121/1.5093538)[[Code]](https://github.com/TannerSorensen/task_spec_synergies)
 
 ## Papers that are developed for the analysis and modelling of reconstructed real-time MRI data *without* code repository
+
+* Michael I. Proctor, Daniel Bone, Athanasios Katsamanis, Shrikanth S. Narayanan, "Rapid semi-automatic segmentation of real-time magnetic resonance images for parametric vocal tract analysis", *Interspeech*, Makuhari, Japan, 2010. [[Paper]](https://sail.usc.edu/span/pdfs/proctor2010rapid.pdf)
+
+* Adam Lammert, Michael I. Proctor, Shrikanth S. Narayanan, "Data-Driven analysis of realtime vocal tract MRI using correlated image regions", *Interspeech*, Makuhari, Japan, 2010. [[Paper]](https://sail.usc.edu/span/pdfs/lammert2010datadriven.pdf)
+
+* Michael I. Proctor, Adam Lammert, Athanasios Katsamanis, Louis Goldstein, Christina Hagedorn, Shrikanth S. Narayanan, "Direct estimation of articulatory kinematics from real-time magnetic resonance image sequences", *Interspeech*, Florence, Italy, 2011 [[Paper]](https://sail.usc.edu/span/pdfs/proctor2011direct.pdf)
+
+* Adam Lammert, Vikram Ramanarayanan, Michael I. Proctor, Shrikanth S. Narayanan, "Vocal tract cross-distance estimation from real-time MRI using region-of-interest analysis", *Interspeech*, Lyon, France, 2013. [[Paper]](https://sail.usc.edu/span/pdfs/lammert2013vocal.pdf)
+
+* Shrikanth Narayanan, Asterios Toutios, Vikram Ramanarayanan, Adam Lammert, Jangwon Kim, Sungbok Lee, Krishna Nayak, Yoon-Chul Kim, Yinghua Zhu, Louis Goldstein, Dani Byrd, Erik Bresch, Prasanta Ghosh, Athanasios Katsamanis, Michael Proctor, "Real-time magnetic resonance imaging and electromagnetic articulography database for speech production research (TC)", *Journal of the Acoustical Society of America*, vol. 136, no. 3, pp. 1307-1311, 2014. [[Paper]](https://sail.usc.edu/span/pdfs/narayanan2014realtime.pdf)
+
+* Asterios Toutios, Shrikanth S. Narayanan, "Factor analysis of vocal-tract outlines derived from real-time magnetic resonance imaging data", *Proceedings of International Congress of Phonetic Sciences (ICPhS 2015)*, Glasgow, UK, 2015. [[Paper]](https://sail.usc.edu/span/pdfs/toutios2015factor.pdf)
+
 * Vikram Ramanarayanan, Sam Tilsen, Michael Proctor, Johannes Töger, Louis Goldstein, Krishna S. Nayak, Shrikanth Narayanan, “Analysis of speech production real-time MRI”, *Computer Speech & Language*, vol. 52, pp. 1-22, 2018. [[Paper]](https://reader.elsevier.com/reader/sd/pii/S0885230817301894?token=DE7B29ADEF701086256A0D27181D183888B856F4F24C04841AC78CBF1AF1A93445EB8DDA9FBF4C71EE439A61996B786D)
 
 * Asterios Toutios, Dani Byrd, Louis Goldstein, Shrikanth Narayanan, “Advances in vocal tract imaging and analysis.“, *Routledge Handbook of Phonetics* (William Katz, Peter Assmann, eds.), Routledge, London and New York, 2019. [[Paper]](https://www.taylorfrancis.com/chapters/advances-vocal-tract-imaging-analysis-asterios-toutios-dani-byrd-louis-goldstein-shrikanth-narayanan/e/10.4324/9780429056253-3)
 
-* Shrikanth Narayanan, Asterios Toutios, Vikram Ramanarayanan, Adam Lammert, Jangwon Kim, Sungbok Lee, Krishna Nayak, Yoon-Chul Kim, Yinghua Zhu, Louis Goldstein, Dani Byrd, Erik Bresch, Prasanta Ghosh, Athanasios Katsamanis, Michael Proctor, "Real-time magnetic resonance imaging and electromagnetic articulography database for speech production research (TC)", *Journal of the Acoustical Society of America*, vol. 136, no. 3, pp. 1307-1311, 2014. [[Paper]](https://sail.usc.edu/span/pdfs/narayanan2014realtime.pdf)
-
-* Michael I. Proctor, Daniel Bone, Athanasios Katsamanis, Shrikanth S. Narayanan, "Rapid semi-automatic segmentation of real-time magnetic resonance images for parametric vocal tract analysis", *Interspeech*, Makuhari, Japan, 2010. [[Paper]](https://sail.usc.edu/span/pdfs/proctor2010rapid.pdf)
+* Ashwin Hebbar, Rahul Sharma, Krishna Somandepalli, Asterios Toutios, Shrikanth S. Narayanan, "Vocal tract articulatory contour detection in real-time magnetic resonance images using spatio-temporal context", *IEEE International Conference on Audio, Speech and Signal Processing (ICASSP)*, Barcelona, Spain, 2020. [[Paper]](https://sail.usc.edu/span/pdfs/hebbar2020vocal.pdf)
 
 * Jangwon Kim, Asterios Toutios, Sungbok Lee, Shrikanth S. Narayanan, "Vocal tract shaping of emotional speech", *Computer Speech & Language*, vol. 64, pp. 101100, 2020. [[Paper]](https://sail.usc.edu/span/pdfs/kim2020vocal.pdf)
-
-* Asterios Toutios, Shrikanth S. Narayanan, "Factor analysis of vocal-tract outlines derived from real-time magnetic resonance imaging data", *Proceedings of International Congress of Phonetic Sciences (ICPhS 2015)*, Glasgow, UK, 2015. [[Paper]](https://sail.usc.edu/span/pdfs/toutios2015factor.pdf)
-
-* Adam Lammert, Michael I. Proctor, Shrikanth S. Narayanan, "Data-Driven analysis of realtime vocal tract MRI using correlated image regions", *Interspeech*, Makuhari, Japan, 2010. [[Paper]](https://sail.usc.edu/span/pdfs/lammert2010datadriven.pdf)
-
-* Adam Lammert, Vikram Ramanarayanan, Michael I. Proctor, Shrikanth S. Narayanan, "Vocal tract cross-distance estimation from real-time MRI using region-of-interest analysis", *Interspeech*, Lyon, France, 2013. [[Paper]](https://sail.usc.edu/span/pdfs/lammert2013vocal.pdf)
-
-* Michael I. Proctor, Adam Lammert, Athanasios Katsamanis, Louis Goldstein, Christina Hagedorn, Shrikanth S. Narayanan, "Direct estimation of articulatory kinematics from real-time magnetic resonance image sequences", *Interspeech*, Florence, Italy, 2011 [[Paper]](https://sail.usc.edu/span/pdfs/proctor2011direct.pdf)
-
-* Ashwin Hebbar, Rahul Sharma, Krishna Somandepalli, Asterios Toutios, Shrikanth S. Narayanan, "Vocal tract articulatory contour detection in real-time magnetic resonance images using spatio-temporal context", *IEEE International Conference on Audio, Speech and Signal Processing (ICASSP)*, Barcelona, Spain, 2020. [[Paper]](https://sail.usc.edu/span/pdfs/hebbar2020vocal.pdf)
