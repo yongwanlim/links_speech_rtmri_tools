@@ -40,3 +40,7 @@
 * Ashwin Hebbar, Rahul Sharma, Krishna Somandepalli, Asterios Toutios, Shrikanth S. Narayanan, "Vocal tract articulatory contour detection in real-time magnetic resonance images using spatio-temporal context", *IEEE International Conference on Audio, Speech and Signal Processing (ICASSP)*, Barcelona, Spain, 2020. [[Paper]](https://sail.usc.edu/span/pdfs/hebbar2020vocal.pdf)
 
 * Jangwon Kim, Asterios Toutios, Sungbok Lee, Shrikanth S. Narayanan, "Vocal tract shaping of emotional speech", *Computer Speech & Language*, vol. 64, pp. 101100, 2020. [[Paper]](https://sail.usc.edu/span/pdfs/kim2020vocal.pdf)
+
+## Other resources
+
+* A MATLAB program for assisting region of interest (ROI) analysis of the movements of the vocal tract articulators in real-time magnetic resonance (rtMR) videos [Code](https://github.com/reedblaylock/VocalTract-ROI-Toolbox)
